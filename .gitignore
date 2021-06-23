@@ -2,5 +2,4 @@
 .vscode
 estudo.txt
 database.sqlite
-yarn.lock
 yarn-error.log
