@@ -26,4 +26,4 @@ class CreateTagService {
   }
 }
 
-export { CreateTagService };
+export { CreateTagService }

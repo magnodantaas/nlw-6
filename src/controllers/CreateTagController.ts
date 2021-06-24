@@ -16,4 +16,4 @@ class CreateTagController {
   }
 }
 
-export { CreateTagController };
+export { CreateTagController }
